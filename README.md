@@ -32,7 +32,7 @@ Kernel dev
 -->
 
 <h2 align="center" > Graphics engine </h2> 
-<p align="center" > 💻 Language : <code>C</code> <code>GLSL</code> </p> 
+<p align="center" > 💻 Language : <code>C</code> <code>GLSL</code> </p>
 <p align="center" > 🛠️ Features : gdb, OpenGL </p> 
 <p align="center">
   The idea behind this project is to play with 3D graphics in a low-level approach. This is an FPS game, built without a game engine. This also allows for extensive optimization.<br/>
@@ -40,6 +40,16 @@ Kernel dev
 </p>
 <ul list-style-type="none" align="center">
   <a href = "https://github.com/mathisbot/opengl-fps" > Repository </a>
+</ul>
+
+<h2 align="center" > Operating System </h2> 
+<p align="center" > 💻 Language : <code>C</code> <code>ASM</code> </p>
+<p align="center">
+  The motivation behind this project is to discover more about low-level computing. The aim here is to understand how a basic OS works, by creating one from scratch.
+  To achieve my goals, I've chosen to use the C language, which I like, to which I'll have to couple ASM for the parts that require it.
+</p>
+<ul list-style-type="none" align="center">
+  <a href = "https://github.com/mathisbot/bdos" > Repository </a>
 </ul>
 
 <h2 align="center" > Cybersecurity 🔒</h2> 
