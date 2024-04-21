@@ -44,6 +44,16 @@ I'm passionate about many things but my favorite thing at the moment is low leve
   <a href = "https://github.com/mathisbot/opengl-fps" > Repository </a>
 </ul>
 
+<h2 align="center" > Homomorphic Encryption Library </h2> 
+<p align="center" > 💻 Language : <code>Rust</code></p>
+<p align="center">
+  This repository contains a Rust implementation of a homomorphic encryption scheme.
+  Homomorphic encryption allows computations to be performed on encrypted data without decrypting it, preserving the privacy of the data. Homomorphic encryption is still a subject of research today, and no system that is both secure and efficient has yet been found.
+</p>
+<ul list-style-type="none" align="center">
+  <a href = "https://github.com/mathisbot/bdos" > Repository </a>
+</ul>
+
 <h2 align="center" > Operating System </h2> 
 <p align="center" > 💻 Language : <code>C</code> <code>ASM</code> </p>
 <p align="center">
@@ -51,7 +61,7 @@ I'm passionate about many things but my favorite thing at the moment is low leve
   To achieve my goals, I've chosen to use the C language, which I like, to which I had to couple ASM for the parts that require it.
 </p>
 <ul list-style-type="none" align="center">
-  <a href = "https://github.com/mathisbot/bdos" > Repository </a>
+  <a href = "https://github.com/mathisbot/homomorph-rust" > Repository </a>
 </ul>
 
 <h2 align="center" > Cybersecurity 🔒</h2> 
@@ -78,10 +88,10 @@ As an administrator of an Internet Provider, I have to fix and improve wesites f
 <p align="center">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenStack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ceph-%EF5C55.svg?style=for-the-badge&logo=ceph"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D" />
 </p>
