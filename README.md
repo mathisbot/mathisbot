@@ -15,9 +15,8 @@
 <h2 align="center" > My main skills </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white" />
   <img src="https://img.shields.io/badge/ASM-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
@@ -48,15 +47,18 @@ I'm passionate about many things but my favorite thing at the moment is low leve
 <p align="center" > 💻 Language : <code>Rust</code></p>
 <p align="center">
   This repository contains a Rust implementation of a homomorphic encryption scheme.
+  
   Homomorphic encryption allows computations to be performed on encrypted data without decrypting it, preserving the privacy of the data. Homomorphic encryption is still a subject of research today, and no system that is both secure and efficient has yet been found.
 </p>
 <ul list-style-type="none" align="center">
-  <a href = "https://github.com/mathisbot/bdos" > Repository </a>
+  <a href = "https://github.com/mathisbot/homomorph-rust" > Repository </a>
 </ul>
 
 <h2 align="center" > Operating System </h2> 
 <p align="center" > 💻 Language : <code>C</code> <code>ASM</code> </p>
 <p align="center">
+  This project is in a VERY early stage.
+  
   The motivation behind this project is to discover more about low-level computing. The aim here is to understand how a basic OS works, by creating one from scratch.
   To achieve my goals, I've chosen to use the C language, which I like, to which I had to couple ASM for the parts that require it.
 </p>
@@ -69,7 +71,7 @@ I'm passionate about many things but my favorite thing at the moment is low leve
   💻 Language : <code>Python</code> <code>C</code> <code>Bash</code>
 </p>
 <p align="center">
-I'm also very interested in cybersecurity.
+I'm also interested in cybersecurity.
 </p>
 <ul list-style-type="none" align="center">
   <p>
