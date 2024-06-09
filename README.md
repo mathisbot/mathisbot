@@ -33,8 +33,8 @@ I'm passionate about many things but my favorite thing at the moment is low leve
 </p>
 
 <h2 align="center" > Graphics engine </h2> 
-<p align="center" > 💻 Language : <code>C</code> <code>GLSL</code> </p>
-<p align="center" > 🛠️ Features : gdb, OpenGL </p> 
+<p align="center" > 💻 Languages : <code>C</code> <code>GLSL</code> </p>
+<p align="center" > 🛠️ Technologies : gdb, OpenGL </p> 
 <p align="center">
   The idea behind this project is to play with 3D graphics in a low-level approach. It's an FPS game built without a game engine. This also allows for extensive optimization.<br/>
   I chose the C language which I like, along with the library SDL2 in order to use OpenGL in a platform-independent context. With this, rendering methods were almost non-existent, and I had to start from scratch (although SDL can take some of the work out of the equation).
@@ -54,16 +54,16 @@ I'm passionate about many things but my favorite thing at the moment is low leve
   <a href = "https://github.com/mathisbot/homomorph-rust" > Repository </a>
 </ul>
 
-<h2 align="center" > Operating System </h2> 
-<p align="center" > 💻 Language : <code>C</code> <code>ASM</code> </p>
+<h2 align="center" > MovieMatrix 🍿 </h2> 
+<p align="center" > 💻 Languages : <code>TypeScript</code> <code>Rust</code></p>
+<p align="center" > 🛠️ Technologies : gRPC, postgres </p> 
 <p align="center">
-  This project is in a VERY early stage.
-  
-  The motivation behind this project is to discover more about low-level computing. The aim here is to understand how a basic OS works, by creating one from scratch.
-  To achieve my goals, I've chosen to use the C language, which I like, to which I had to couple ASM for the parts that require it.
+As an administrator of an Internet Provider, I have to fix and improve wesites for our clients. In this context I learned backend and frontend development.
+
+But the biggest web application I've ever worked on was made for a project in 4 days in groups of 3. It is a movie recommendation web application built with Rust and Next.js that helps you choose the next movie you're going to watch.
 </p>
 <ul list-style-type="none" align="center">
-  <a href = "https://github.com/mathisbot/homomorph-rust" > Repository </a>
+  <a href = "https://github.com/mathisbot/movie-matrix" > Repository </a>
 </ul>
 
 <h2 align="center" > Cybersecurity 🔒</h2> 
@@ -78,11 +78,6 @@ I'm also interested in cybersecurity.
     <a href = "https://www.root-me.org/Dozer-335053" > Root Me Profile</a>: 300 points<br/>
   </p>
 </ul>
-
-<h2 align="center" > Full stack development 🌐 </h2> 
-<p align="center">
-As an administrator of an Internet Provider, I have to fix and improve wesites for our clients. In this context I learned backend and frontend development.
-</p>
 
 <hr>
 
