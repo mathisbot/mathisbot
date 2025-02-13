@@ -25,7 +25,7 @@
 
 <h2>🚀 About Me</h2>
 <p>
-  I'm a 21 years old French IT student at CentraleSupélec (Paris-Saclay University). 👨‍🎓
+  I'm a 21 years old French CS student at CentraleSupélec (Paris-Saclay University). 👨‍🎓
 
   From November 2023 to December 2024, I worked as a network architect and administrator for AS 212424 ~ ViaRezo.
   This was a unique opportunity for me to learn plenty of things about clusters, low-level and high-level networking, DevOps, virtualization and databases.
